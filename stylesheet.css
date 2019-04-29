@@ -33,6 +33,9 @@ img {
     margin: 1.5% 2%;
     border: 1px solid #bbbbbb;
 }
+.preview-img {
+    width: 96%;
+}
 .item {
     background-color: #bfe5fb33;
     padding: 0;
